@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+
+
+:root{
+    --corheader: #E50914;
+}
+
+
+
+.conteiner-pai-header{
+    
+}
+
+.conteiner-filho-header{
+    display: flex;
+    gap: 40px;
+   
+
+
+    background-color: var(--corheader);
+}
+
+
+.titulo-header{
+    padding-left: 10px ;
+    font-size: 30px;
+}
+
+.texto-header{
+    
+}
