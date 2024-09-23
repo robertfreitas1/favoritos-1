@@ -7,7 +7,9 @@
     --corheader: #E50914;
 }
 
-
+body{
+    background-color: black;
+}
 
 .conteiner-pai-header{
     
@@ -24,10 +26,24 @@
 
 
 .titulo-header{
+    color: white;
     padding-left: 10px ;
     font-size: 30px;
 }
 
+
+.alinhamento-texto{
+    display: flex;
+    gap: 8%;
+    padding-top: 10px;
+    text-align: right;
+    
+
+    
+}
+
 .texto-header{
+    font-size: 120%;
+    text-align: right;
     
 }
